@@ -1,0 +1,21 @@
+body { background-color: rgb(5, 90, 38); color: white; }
+
+h1 { color: rgb(12, 9, 9); text-align: center; font-size: 55px;}
+
+p { color: rgb(182, 24, 24); text-align: center; font-style: italic; font-size: 25px; }
+
+.smash {
+    color:rgb(56, 13, 97);
+    font-style: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+.grateful {
+    color: rgb(168, 168, 23);
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
